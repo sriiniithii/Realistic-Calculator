@@ -26,6 +26,8 @@ Button press animations and real-time display updates for an engaging user exper
 ## Technologies Used
 
 **HTML:** Structure and layout of the calculator.
+
 **CSS:** Styling for a realistic look and feel.
+
 **JavaScript:** Implementation of calculator logic and interactive features.
 
